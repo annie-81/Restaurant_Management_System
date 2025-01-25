@@ -43,7 +43,7 @@ A pop-up window displays the current prices of menu items.
 - Clone the Repository:
 
 git clone <repository-link>
-cd restaurant-management-system
+cd Restaurant_Management_System
 
 - Install Dependencies:
 Ensure you have Python 3.x installed. Install the required libraries using:
